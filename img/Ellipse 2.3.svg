@@ -1,0 +1,23 @@
+<svg width="31" height="30" viewBox="0 0 31 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="31" height="30" fill="#E5E5E5"/>
+<g id="Loco main">
+<rect width="1440" height="2700" transform="translate(-1068 -1447)" fill="white"/>
+<g id="2nd">
+<rect id="pink bg" x="-1068" y="-547" width="1440" height="900" fill="#FAE8E4"/>
+<g id="Clatch">
+<g id="shadow" opacity="0.8" filter="url(#filter0_f)">
+<rect x="-116" y="-298" width="365" height="451" fill="black"/>
+</g>
+<rect id="Rectangle 4" x="-189" y="-379" width="488" height="556" fill="white"/>
+<ellipse id="Ellipse 2.3" cx="15.0921" cy="15" rx="15.0921" ry="15" fill="#90BD8F"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f" x="-216" y="-398" width="565" height="651" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur"/>
+</filter>
+</defs>
+</svg>

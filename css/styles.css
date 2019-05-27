@@ -8,12 +8,12 @@ body {
 }
 
 .wrapper--black {
-    background: url('../img/Rectangle 5.png');
+    background-color: black;
     display: flex;
     position: absolute;
     justify-content: flex-start;
     height: 957px;
-    width: 461px;
+    width: 34.17%;
     top: 0;
     left: 0;
     z-index: -1;
@@ -23,7 +23,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 90px;
+    height: 6.6%;
     z-index: 1;
 }
 
@@ -82,7 +82,7 @@ body {
 
 
 .description__image {
-    width: 549px;
+    width: 40.6%;
     height: 562px;
 }
 
@@ -94,7 +94,7 @@ body {
 }
 
 .lead__title {
-    margin: 26px;
+    margin: 4.8%;
     font-family: Montserrat;
     font-style: bold;
     font-weight: bold;
@@ -103,7 +103,7 @@ body {
 }
 
 .lead__text {
-    margin: 26px;
+    margin: 4.8%;
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
@@ -112,13 +112,13 @@ body {
 }
 
 .lead-nav {
-    margin: 26px;
+    margin: 4.8%;
     display: flex;
     justify-content: space-between;
 }
 
 .lead-nav__item {
-    padding: 14px;
+    padding: 2.8%;
     font-family: Montserrat;
     font-style: normal;
     font-weight: 500;
@@ -146,7 +146,7 @@ body {
 }
 
 .adress--left {
-    margin-left: 52px;     
+    margin-left: 7.71%;     
     display: flex;
     justify-content: space-around;
 }
